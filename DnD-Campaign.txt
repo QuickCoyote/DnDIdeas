@@ -7,62 +7,76 @@ ______
 
 Tantar (race) (con)
 {
+Age: Typically live to around 150-250 years
 Height: 6'5" - 7'5"
 Weight: 280-350lbs
 Typical Alignment: Good
 Languages: Common, Tantaran
 Constitution +2
-Racial Ability: Once a day, you can gain advantage on Constitution checks
+Speed: 35 ft
+Racial Ability: Once a day, you can take a 10 on a Constitution saving throw/check
 }
 ------------------------------
 Zaan (race) (cha) (smol)
 {
+Age: Typically live to around 60-70 years
 Height: 3'-4'
 Weight: 40-50lbs
 Typical Alignment: Neutral
 Languages: Common, Zaan
 Charisma +2
-Racial Ability: Once a day, you can gain advantage on charisma checks
+Speed: 20 ft.
+Darkvision: you can see 30 ft in dark and dim conditions
+Racial Ability: Once a day, you can take a 10 on a Charisma saving throw/check
 }
 ------------------------------
 Tyldin (race) (tinkering nerds) (int)
 {
+Age: Typically live to around 300-400 years
 Height: 4'5"-5'5"
 Weight: 180-250 lbs
 Typical Alignment: Neutral
 Languages: Common, Tyldin
 intelligence +2
-Racial Ability: Once a day, you can gain advantage on Intelligence checks
+Speed: 25 ft.
+Superior darkvision: you can see 60 feet in dark and dim conditions
+Racial Ability: Once a day, you can take a 10 on a Intelligence saving throw/check
 }
 ------------------------------
 Quinar(race) (magical nerds) (wis)
 {
+Age: Typically live to around 90-100 years
 Height: 4'-5'
 Weight: 70-120 lbs
 Alignment: Neutral
 Languages: Common, Quinar
 Wisdom +2
-Racial Ability: Once a day, you can gain advantage on Wisdom checks
+Speed: 25 ft.
+Racial Ability: Once a day, you can take a 10 on a Wisdom saving throw/check
 }
 ------------------------------
 Alteran(race) (ranging bois) (dex)
 {
+Age: Live to about 100-150 years
 Height: 5'5"-6'5"
 Weight: 120-170lbs
 Typical Alignment: Good
-Languages: Common, Alteran
+Languages: Common, Alterian
 Dexterity +2
-Racial Ability: Once a day, you can gain advantage on Dexterity checks
+Speed: 30 ft.
+Racial Ability: Once a day, you can take a 10 on a Dexterity saving throw/check
 }
 ------------------------------
 Rytos(race) (beefy bois) (str)
 {
+Age: Have been known to live up to 80 years although most die in battle before they reach it
 Height: 5'10"-6'8"
 Weight: 180-250 lbs
 Typical Alignment:Neutral
 Languages: Common, Rytan
 Strength +2
-Racial Ability: Once a day, you can gain advantage on Strength checks
+Speed: 30 ft.
+Racial Ability: Once a day, you can take a 10 on a Strength saving throw/check
 }
 ------------------------------
        _                         
@@ -72,10 +86,10 @@ Racial Ability: Once a day, you can gain advantage on Strength checks
 | (__ | | (_| \__ \__ \  __/\__ \
  \___||_|\__,_|___/___/\___||___/
 
-   ___
-  ('v')
-///(_)\\\
-  _| |_
+ ___
+('v')
+/( )\
+ . .
 ----------------------------------------------------
 Mekromancer (class) (Intelligence/wis, tinkering self-explanatory based)
 {
@@ -130,8 +144,17 @@ ___  ___                _
 | |  | | (_) | | | \__ \ ||  __/ |  \__ \
 \_|  |_/\___/|_| |_|___/\__\___|_|  |___/
 
+-----------------------------------------------------
+MEKS
+{
 Meklord
 Mek Dragon
 Mek Archer
 Mek Warrior
 MekMage
+}
+-----------------------------------------------------
+Demons
+{
+
+}
