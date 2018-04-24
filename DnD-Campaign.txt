@@ -14,6 +14,7 @@ Typical Alignment: Good
 Languages: Common, Tantaran
 Constitution +2
 Speed: 35 ft
+Size: Medium
 Racial Ability: Once a day, you can take a 10 on a Constitution saving throw/check
 }
 ------------------------------
@@ -26,6 +27,7 @@ Typical Alignment: Neutral
 Languages: Common, Zaan
 Charisma +2
 Speed: 20 ft.
+Size: Small
 Darkvision: you can see 30 ft in dark and dim conditions
 Racial Ability: Once a day, you can take a 10 on a Charisma saving throw/check
 }
@@ -39,6 +41,7 @@ Typical Alignment: Neutral
 Languages: Common, Tyldin
 intelligence +2
 Speed: 25 ft.
+Size: Medium
 Superior darkvision: you can see 60 feet in dark and dim conditions
 Racial Ability: Once a day, you can take a 10 on a Intelligence saving throw/check
 }
@@ -52,6 +55,7 @@ Alignment: Neutral
 Languages: Common, Quinar
 Wisdom +2
 Speed: 25 ft.
+Size: Medium
 Racial Ability: Once a day, you can take a 10 on a Wisdom saving throw/check
 }
 ------------------------------
@@ -64,6 +68,7 @@ Typical Alignment: Good
 Languages: Common, Alterian
 Dexterity +2
 Speed: 30 ft.
+Size: Medium
 Racial Ability: Once a day, you can take a 10 on a Dexterity saving throw/check
 }
 ------------------------------
@@ -72,10 +77,11 @@ Rytos(race) (beefy bois) (str)
 Age: Have been known to live up to 80 years although most die in battle before they reach it
 Height: 5'10"-6'8"
 Weight: 180-250 lbs
-Typical Alignment:Neutral
+Typical Alignment: Neutral
 Languages: Common, Rytan
 Strength +2
 Speed: 30 ft.
+Size: Medium
 Racial Ability: Once a day, you can take a 10 on a Strength saving throw/check
 }
 ------------------------------
@@ -93,8 +99,55 @@ Racial Ability: Once a day, you can take a 10 on a Strength saving throw/check
 ----------------------------------------------------
 Mekromancer (class) (Intelligence/wis, tinkering self-explanatory based)
 {
-Intelligence +1
-Level 20: You can spend a lot of money and time to build a mek dragon that follows and obeys your command (can be "charmed" by other mekromancers should they beat your intelligence check)
+
+Level 1: Intelligence +1, Servo Building, Scrap Armor
+Level 2: Spiderling Building, Scrap Weapons
+Level 3: 
+Level 4: Ability Score Improvement
+Level 5: 
+Level 6: 
+Level 7: Mek Coyote Building
+Level 8: Ability Score Improvement
+Level 9: 
+Level 10: 
+Level 11: Mek Wolf Building 
+Level 12: Ability Score Improvement
+Level 13: 
+Level 14: 
+Level 15: Mek Bear Building
+Level 16: Ability Score Improvement
+Level 17: 
+Level 18: Mek Lion Building
+Level 19: Ability Score Improvement
+Level 20: Mek Dragon Building
+
+SERVO BUILDING:
+You can spend a bonus action building a servo. Details in building file. Takes 1 scrap.
+------------------
+SCRAP ARMOR:
+You can spend an action putting scrap ontop of your armor (and likewise for taking it off) the scrap adds +2 to your AC but reduces your speed by 5ft.
+------------------
+SPIDERLING BUILDING:
+You can spend a bonus action building a spiderling. Details in building file. takes 3 scrap.
+------------------
+SCRAP GEAR:
+You can deconstruct gear for scrap (assuming the gear is made of a sort of metal). Scrap is used to build constructs in your class.
+------------------
+MEK COYOTE BUILDING:
+You can spend an action to build a Mek Coyote. Details in building file. Takes 5 scrap.
+------------------
+MEK WOLF BUILDING:
+You can spend an action to build a Mek Wolf. Details in building file. Takes 10 scrap.
+------------------
+MEK BEAR BUILDING:
+You can spend an action to build a Mek Bear. Details in Building file. Takes 20 scrap.
+------------------
+MEK LION BUILDING:
+You can spend an action to build a Mek Lion. Details in Building file. Takes 50 scrap.
+------------------
+MEK DRAGON BUILDING:
+You can spend your whole turn (action, movement, and bonus action) to build a mek dragon that follows and obeys your command, must make an Intelligence check to determine its Intelligence (can be "charmed" by other mekromancers should they beat your intelligence check) Takes 200 scrap.
+------------------
 }
 ----------------------------------------------------
 Gunslinger  (class) (Dexterity/cha, ranged based)
@@ -105,25 +158,97 @@ https://www.dandwiki.com/wiki/Gunslinger,_Variant_(5e_Class)#Creating_a_Gunsling
 ----------------------------------------------------
 Weaver      (class) (Wisdom/int, magic based)
 {
-Wisdom +1
+Level 1: Wisdom +1
+Level 2: 
+Level 3: 
+Level 4: Ability Score Improvement
+Level 5: 
+Level 6: 
+Level 7: 
+Level 8: Ability Score Improvement
+Level 9: 
+Level 10: 
+Level 11: 
+Level 12: Ability Score Improvement
+Level 13: 
+Level 14: 
+Level 15: 
+Level 16: Ability Score Improvement
+Level 17: 
+Level 18: 
+Level 19: Ability Score Improvement
 level 20: You can create a small realm to take a small village to the new realm. You must have a Large crystal
 }
 ----------------------------------------------------
 Protector   (class) (Constitution/str, tank based)
 {
-Constitution +1
+Level 1: Constitution +1
+Level 2: 
+Level 3: 
+Level 4: Ability Score Improvement
+Level 5: 
+Level 6: 
+Level 7: 
+Level 8: Ability Score Improvement
+Level 9: 
+Level 10: 
+Level 11: 
+Level 12: Ability Score Improvement
+Level 13: 
+Level 14: 
+Level 15: 
+Level 16: Ability Score Improvement
+Level 17: 
+Level 18: 
+Level 19: Ability Score Improvement
 Level 20: If someone were to die in the current battle you can completely prevent their death and put them back to full hp. Useable once a day
 }
 ----------------------------------------------------
 Stalker     (class) (Charisma/dex, stealth based) 
 {
-Charisma +1
+Level 1: Charisma +1
+Level 2: 
+Level 3: 
+Level 4: Ability Score Improvement
+Level 5: 
+Level 6: 
+Level 7: 
+Level 8: Ability Score Improvement
+Level 9: 
+Level 10: 
+Level 11: 
+Level 12: Ability Score Improvement
+Level 13: 
+Level 14: 
+Level 15: 
+Level 16: Ability Score Improvement
+Level 17: 
+Level 18: 
+Level 19: Ability Score Improvement
 Level 20: Once per day, you can critically strike an enemy, killing them in one shot if they haven't detected you.
 }
 ----------------------------------------------------
 Striker     (class) (Strength/con, stronk bois, warrior/barbarian)
 {
-Strength +1
+Level 1: Strength +1
+Level 2: 
+Level 3: 
+Level 4: Ability Score Improvement
+Level 5: 
+Level 6: 
+Level 7: 
+Level 8: Ability Score Improvement
+Level 9: 
+Level 10: 
+Level 11: 
+Level 12: Ability Score Improvement
+Level 13: 
+Level 14: 
+Level 15: 
+Level 16: Ability Score Improvement
+Level 17: 
+Level 18: 
+Level 19: Ability Score Improvement
 Level 20: You can dual wield and weapon, without disadvantage (besides bows and such)
 }
 ----------------------------------------------------
