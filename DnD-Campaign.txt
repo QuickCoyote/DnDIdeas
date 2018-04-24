@@ -1,0 +1,137 @@
+______                    
+| ___ \                   
+| |_/ /__ _  ___ ___  ___ 
+|    // _` |/ __/ _ \/ __|
+| |\ \ (_| | (_|  __/\__ \
+\_| \_\__,_|\___\___||___/
+
+Tantar (race) (con)
+{
+Height: 6'5" - 7'5"
+Weight: 280-350lbs
+Typical Alignment: Good
+Languages: Common, Tantaran
+Constitution +2
+Racial Ability: Once a day, you can gain advantage on Constitution checks
+}
+------------------------------
+Zaan (race) (cha) (smol)
+{
+Height: 3'-4'
+Weight: 40-50lbs
+Typical Alignment: Neutral
+Languages: Common, Zaan
+Charisma +2
+Racial Ability: Once a day, you can gain advantage on charisma checks
+}
+------------------------------
+Tyldin (race) (tinkering nerds) (int)
+{
+Height: 4'5"-5'5"
+Weight: 180-250 lbs
+Typical Alignment: Neutral
+Languages: Common, Tyldin
+intelligence +2
+Racial Ability: Once a day, you can gain advantage on Intelligence checks
+}
+------------------------------
+Quinar(race) (magical nerds) (wis)
+{
+Height: 4'-5'
+Weight: 70-120 lbs
+Alignment: Neutral
+Languages: Common, Quinar
+Wisdom +2
+Racial Ability: Once a day, you can gain advantage on Wisdom checks
+}
+------------------------------
+Alteran(race) (ranging bois) (dex)
+{
+Height: 5'5"-6'5"
+Weight: 120-170lbs
+Typical Alignment: Good
+Languages: Common, Alteran
+Dexterity +2
+Racial Ability: Once a day, you can gain advantage on Dexterity checks
+}
+------------------------------
+Rytos(race) (beefy bois) (str)
+{
+Height: 5'10"-6'8"
+Weight: 180-250 lbs
+Typical Alignment:Neutral
+Languages: Common, Rytan
+Strength +2
+Racial Ability: Once a day, you can gain advantage on Strength checks
+}
+------------------------------
+       _                         
+      | |                        
+  ___ | | __ _ ___ ___  ___  ___ 
+ / __|| |/ _` / __/ __|/ _ \/ __|
+| (__ | | (_| \__ \__ \  __/\__ \
+ \___||_|\__,_|___/___/\___||___/
+
+   ___
+  ('v')
+///(_)\\\
+  _| |_
+----------------------------------------------------
+Mekromancer (class) (Intelligence/wis, tinkering self-explanatory based)
+{
+Intelligence +1
+Level 20: You can spend a lot of money and time to build a mek dragon that follows and obeys your command (can be "charmed" by other mekromancers should they beat your intelligence check)
+}
+----------------------------------------------------
+Gunslinger  (class) (Dexterity/cha, ranged based)
+{
+Reference Page Below
+https://www.dandwiki.com/wiki/Gunslinger,_Variant_(5e_Class)#Creating_a_Gunslinger
+}
+----------------------------------------------------
+Weaver      (class) (Wisdom/int, magic based)
+{
+Wisdom +1
+level 20: You can create a small realm to take a small village to the new realm. You must have a Large crystal
+}
+----------------------------------------------------
+Protector   (class) (Constitution/str, tank based)
+{
+Constitution +1
+Level 20: If someone were to die in the current battle you can completely prevent their death and put them back to full hp. Useable once a day
+}
+----------------------------------------------------
+Stalker     (class) (Charisma/dex, stealth based) 
+{
+Charisma +1
+Level 20: Once per day, you can critically strike an enemy, killing them in one shot if they haven't detected you.
+}
+----------------------------------------------------
+Striker     (class) (Strength/con, stronk bois, warrior/barbarian)
+{
+Strength +1
+Level 20: You can dual wield and weapon, without disadvantage (besides bows and such)
+}
+----------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+___  ___                _                
+|  \/  |               | |               
+| .  . | ___  _ __  ___| |_ ___ _ __ ___ 
+| |\/| |/ _ \| '_ \/ __| __/ _ \ '__/ __|
+| |  | | (_) | | | \__ \ ||  __/ |  \__ \
+\_|  |_/\___/|_| |_|___/\__\___|_|  |___/
+
+Meklord
+Mek Dragon
+Mek Archer
+Mek Warrior
+MekMage
