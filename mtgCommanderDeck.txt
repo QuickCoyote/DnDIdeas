@@ -1,14 +1,4 @@
-Cards I might use as a Commander
--------------------------------------------
-Gishath, Sun's Avatar: Red Green White, Dino
-Grand Warlord Radha: Red-Green Elf
-Firesong and Sunspeaker: Red-White Minotaur
-Prosh, Skyraider of Kher: Red Black Green Dragon
-The Ur-Dragon: Rainbow, Dragon Avatar
-Krenko, Mob Boss
-
-
-Prosdh , Skyraider of Kher
+Prossh , Skyraider of Kher
 Krenko, Mod Boss
 Fallen Ideal
 Conspiracy
@@ -23,8 +13,8 @@ Goblin Recruiter
 Murderous Redcap
 Empty the Warrens
 Goblin Bushwacker
-Goblin Grenade // 16 cards, 15 with Prossh as my commander
-Food Chain // 17 cards, 16 with commander
+Goblin Grenade
+Food Chain
 goblin sharpshooter
 siege-Gang commander
 Gempalm Incincerator
@@ -43,4 +33,4 @@ Lightning Bolt
 Incinerate
 Arc Trail
 Viscera Seer
-Splinter Twin // 36 Cards
+Splinter Twin
