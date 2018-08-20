@@ -1,0 +1,75 @@
+RACES
+
+Tantar
+Age: Typically live to around 150-250 years
+Height: 6'5" - 7'5"
+Weight: 280-350lbs
+Typical Alignment: Good
+Languages: Common, Tantaran
+Constitution +2
+Speed: 35 ft
+Size: Medium
+Racial Ability: Once a day, you can take a 10 on a Constitution saving throw/check
+Appearance: Basically, an Ent.
+ 
+Zaan
+Age: Typically live to around 60-70 years
+Height: 3'-4'
+Weight: 40-50lbs
+Typical Alignment: Neutral
+Languages: Common, Zaan
+Charisma +2
+Speed: 20 ft.
+Size: Small
+Darkvision: you can see 30 ft in dark and dim conditions
+Racial Ability: Once a day, you can take a 10 on a Charisma saving throw/check
+Appearance: Basically, Small fox people
+ 
+Tyldin
+Age: Typically live to around 300-400 years
+Height: 4'5"-5'5"
+Weight: 180-250 lbs
+Typical Alignment: Neutral
+Languages: Common, Tyldin
+intelligence +2
+Speed: 25 ft.
+Size: Medium
+Superior darkvision: you can see 60 feet in dark and dim conditions
+Racial Ability: Once a day, you can take a 10 on a Intelligence saving throw/check
+Appearance: Imagine a forest dryad, mainly women, tend to have Tantars as their defenders
+ 
+Quinar
+Age: Typically live to around 90-100 years
+Height: 4'-5'
+Weight: 70-120 lbs
+Alignment: Neutral
+Languages: Common, Quinar
+Wisdom +2
+Speed: 25 ft.
+Size: Medium
+Racial Ability: Once a day, you can take a 10 on a Wisdom saving throw/check
+Appearance: Basically owl people
+ 
+Alteran
+Age: Live to about 100-150 years
+Height: 5'5"-6'5"
+Weight: 120-170lbs
+Typical Alignment: Good
+Languages: Common, Alterian
+Dexterity +2
+Speed: 30 ft.
+Size: Medium
+Racial Ability: Once a day, you can take a 10 on a Dexterity saving throw/check
+Appearance: These are basically humans
+ 
+Rytos
+Age: Have been known to live up to 80 years although most die in battle before they reach it
+Height: 5'10"-6'8"
+Weight: 180-250 lbs
+Typical Alignment: Neutral
+Languages: Common, Rytan
+Strength +2
+Speed: 30 ft.
+Size: Medium
+Racial Ability: Once a day, you can take a 10 on a Strength saving throw/check
+Appearance: Bull people. Minotaurs (taurens)

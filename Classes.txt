@@ -1,0 +1,422 @@
+CLASSES
+Mekromancer
+(Intelligence, tinkering self-explanatory based)
+Hit Points
+Hit Dice: 1d8 per Mekromancer level.
+Hit Points at 1st Level: 8 + Constitution Modifier.
+Hit Points at Higher Levels: 1d8(or 5) + your Constitution modifier per Mekromancer level after 1st.
+Proficiencies
+Armor: Light Armor
+Weapons: Simple Weapons 
+Tools: Tinkerers Kit
+Saving Throws: Intelligence
+Skills: Tinkering, and choose one from Arcana, Perception, Medicine, Investigation, Insight, and History
+Equipment
+You start with the following equipment:
+(a) Mace or Quaterstaff
+(b) Light Hammer
+(c) Tinkerers Tools
+(d) Leather Armor
+Level	Proficiency Bonus	Features	Constructs
+(if Constructor)
+1st 	+2	Intelligence +1, Mek Archetype	2
+2nd	+2	Scrap Gear	2
+3rd	+2	Mek Archetype Features	2
+4th	+2	Ability Score Improvement	2
+5th	+3		2
+6th	+3	Mek Archetype Features	3
+7th	+3		3
+8th	+3	Ability Score Improvement	3
+9th	+4		3
+10th	+4	Mek Archetype Features	3
+11th	+4		4
+12th	+4	Ability Score Improvement	4
+13th	+5		4
+14th	+5	Mek Archetype Features	4
+15th	+5		4
+16th	+5	Ability Score Improvement	5
+17th	+6	Mek Archetype Features	5
+18th	+6		5
+19th	+6	Ability Score Improvement	5
+20th	+6	Mek Archetype Features	5
+
+ 
+SCRAP GEAR:
+You can deconstruct gear for scrap (assuming the gear is made of a sort of metal).
+------------------
+Archetypes:
+Scrap-Lord:
+You specialize in improving or creating weapons and armor to aid you in battle.
+SCRAP ARMOR:
+1st Stage: You can spend an action putting scrap on top of your armor (and likewise for taking it off) the scrap adds +2 to your AC but reduces your speed by 5ft.
+2nd Stage: You can spend an action putting scrap on top of your armor more efficiently (and likewise for taking it off) the scrap adds +3 to your AC but reduces your speed by 10 ft.
+3rd Stage: You can spend an action putting scrap on top of your armor even more efficiently (and likewise for taking it off) the scrap adds +4 to your AC but reduces your speed by 10 ft.
+4th Stage: You can spend an action putting scrap on top of your armor even more efficiently (and likewise for taking it off) the scrap adds +5 to your AC but reduces your speed by 5 ft.
+-----------------
+Scrap Weapon: 
+1st Stage: You can spend an action putting scrap on your weapon, the weapon now does an additional 1d4 slashing damage.
+2nd Stage: You can spend an action putting scrap on your weapon, the weapon now does an additional 1d6 slashing damage.
+3rd Stage: You can spend an action putting scrap on your weapon, the weapon now does an additional 1d8 slashing damage.
+4th Stage: You can spend an action putting scrap on your weapon, the weapon now does an additional 1d10 slashing damage.
+ 
+Constructor:
+You specialize in constructing meks that aid you in battle.
+Animal Mimekry: 
+You can spend an action to build a mek of a creature less than or equal to 2/3 your Constructor level in cr. (the stats of the mek are the same as the creature it mimics)
+Mek Suit: 
+You can spend a day (or 6 hours with 3 people helping) building a mek suit. While wearing the Mek suit you gain +4 AC (max 18) 
+ 
+Weaver
+Hit Points
+Hit Dice: 1d6 per Weaver level
+Hit Points at 1st Level: 6 + your Constitution modifier
+Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per Weaver level.
+Proficiencies
+Armor: Light Armor
+Weapon: Daggers, Quarterstaffs
+Saving Throws: Wisdom
+Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, Religion
+Equipment
+You start with the following equipment:
+(a) Quarterstaff
+(b) Dagger x2
+(c) Scholars Pack
+(d) Leather Armor 
+
+Level	Proficiency Bonus	Features	Cantrips	1st	2nd	3rd	4th	5th	6th	7th	8th	9th
+1st	+2	Restore	3	2	-	-	-	-	-	-	-	-
+2nd	+2		3	3	-	-	-	-	-	-	-	-
+3rd	+2	Archetype	3	4	2	-	-	-	-	-		-
+4th	+2	Ability Score Improvement	4	4	3	-	-	-	-	-	-	-
+5th	+3		4	4	3	2	-	-	-	-	-	-
+6th	+3		4	4	3	3	-	-	-	-	-	-
+7th	+3	Archetype Features	4	4	3	3	1	-	-	-	-	-
+8th	+3	Ability Score Improvement	4	4	3	3	2	-	-	-	-	-
+9th	+4		4	4	3	3	3	1	-	-	-	-
+10th	+4		5	4	3	3	3	2	-	-	-	-
+11th	+4	Archetype Features	5	4	3	3	3	2	1	-	-	-
+12th	+4	Ability Score Improvement	5	4	3	3	3	2	1	-	-	-
+13th	+5		5	4	3	3	3	2	1	1	-	-
+14th	+5		5	4	3	3	3	2	1	1	-	-
+15th	+5	Archetype Features	5	4	3	3	3	2	1	1	1	-
+16th	+5	Ability Score Improvement	6	4	3	3	3	2	1	1	1	-
+17th	+6		6	4	3	3	3	2	1	1	1	1
+18th	+6		6	4	3	3	3	3	1	1	1	1
+19th	+6	Ability Score Improvement	6	4	3	3	3	3	2	1	1	1
+20th	+6	Archetype Features	6	4	3	3	3	3	2	2	1	1
+
+
+ 
+Restore:
+You can take an action to recover all your spent spell slots ONLY USEABLE ONCE A DAY
+Spellcasting Ability:
+¬¬Spell save DC = 8 + your proficiency bonus + your Wisdom Modifier
+Spell Attack Modifier = Your proficiency bonus + your Wisdom Modifier
+Archetypes:
+Elementalist:
+You specialize in casting spells that deal with the elements.
+Elemental Aura: 
+Duration: 1 minute, Concentration
+You surround yourself with an aura made of any element and any creature within five feet of you must make a dexterity save when they begin or end their turn while in range.
+Elemental Casting:
+1st Stage: When you cast a spell, you can have it deal an additional 1d4 damage of the following types (fire, cold, acid, or force). Can only be used 2 times a day.
+2nd Stage: When you cast a spell, you can have it deal an additional 1d6 damage of any type. Can be used 3 times per day.
+3rd Stage: When you cast a spell, you can have it deal an additional 2d6 damage of any type
+Can be used 4 times per day.
+4th Stage: When you cast a spell, you can have it deal an additional 3d8 damage of any type Can be used 4 times per day.
+Ascended Elements: 
+You can now cast spells that deal Chaotic, or Cosmic damage (new damage types. Nothing is resistant to Chaotic Except for Draegon and Acheron. Nothing is resistant to Solar except for Cosmos, The Creator.)
+
+ 
+Speed caster:
+You specialize in casting several spells as fast as possible. Though they may be weaker they are faster.
+Ritual Caster:
+1st Stage: You can cast ritual spells in three quarters the time it would take normally (using the corresponding spell slot).
+2nd Stage: You can cast ritual spells in half the time it would take normally (using the corresponding spell slot).
+3rd Stage: You can cast ritual spells as a spell that would take an action (using the corresponding spell slot).
+Secondary Casting:
+¬¬¬¬1st Stage: You can cast spells that would take an action as a bonus action, however the effects are a quarter of what they would normally be
+2nd Stage: You can cast spells that would take an action as a bonus action, however the effects are halved
+3rd Stage: You can cast spells that would take an action as a bonus action, however the effects are three quarters of what they would normally be
+4th Stage: You can cast spells that would take an action as a bonus action.
+Godly Reaction:
+You can cast a spell in reaction to anything. A random effect will occur from the following depending on the spell level.
+1-3: You are temporarily weakened. You lose 4 max hp until you finish a short or long rest.
+4-6: You are strained from the sudden use of a stronger spell. You lose 5 strength and 10 max hp until you finish a short or long rest.
+7-9: You are severely strained from the sudden use of a high-level spell. You lose 10 strength, 5 constitution, and 15 max hp until you finish 2 long rests.
+ 
+Protector
+Hit Points
+Hit Dice: 1d12 per Protector Level
+Hit Points at 1st Level: 12 + your Constitution Modifier
+Hit Points at Higher Levels: 1d12 (or 7) + your Constitution Modifier
+Proficiencies
+Armor: Heavy Armor, Shields
+Weapons: Maces, Flails, Warhammers, Lance, BattleAxe
+Saving Throws: Constitution
+Tools: Smithing Tools
+Skills: Choose two from Intimidation, Athletics, Religion, Medicine, Perception, and Persuasion
+Equipment
+(a) Warhammer or Battleaxe
+(b) Tower Shield +4 AC
+(c) Chain Mail
+(d) Explorer’s Pack
+ 
+Level	Proficiency Bonus	Features
+1st	+2	Protectors Sense, 
+2nd 	+2	
+3rd 	+2	Archetype Features
+4th 	+2	Ability Score Improvement
+5th 	+3	
+6th 	+3	
+7th 	+3	Archetype features
+8th 	+3	Ability Score Improvement
+9th 	+4	-	
+10th 	+4	
+11th 	+4	Archetype Features
+12th 	+4	Ability Score Improvement
+13th 	+5	
+14th 	+5	-	
+15th 	+5	Archetype Features
+16th 	+5	Ability Score Improvement
+17th 	+6	
+18th 	+6	
+19th 	+6	Ability Score Improvement
+20th 	+6	Archetype Features
+
+
+
+
+
+
+
+
+
+
+Protectors Sense:
+Twice a day when you roll for a perception check you can add three to it.
+Archetypes:
+The Wall:
+You specialize in dual wielding shields. You can dual wield two tower shields.
+Line of Defense:
+You gain the ability to carry a third shield. Not wield but carry. You can slam all three shields into the ground to form a wall. Any attack made against the wall has disadvantage. You gain the AC bonus of the third shield while behind the Line of Defense. You cannot shield bash while this ability is active. You must spend an action to pull one shield out of the ground. All three shields must be placed for the effect to activate. You must also be behind the Line of Defense to gain the AC bonus.
+Allied Defense:
+You may grant any one creature within 5 ft of you +4 ac. They must stay within this range to receive the effect.
+Shield Bash:
+1st Stage: As an action or bonus action you can bash an enemy with your shield, it does its AC bonus in damage + your Strength modifier.
+2nd Stage: As an action or bonus action, you can bash an enemy with your shield. It does one and a half times its AC bonus in damage + your strength modifier.
+3rd Stage: As an action or bonus action, you can bash an enemy with your shield. It does two times its AC bonus in damage + your strength modifier.
+4th Stage: As an action or bonus action, you can bash an enemy with your shield. It does three times its AC bonus in damage + your strength modifier.
+Mass Heal:
+Once per battle you may activate the following ability.
+1st Stage: You can heal yourself for 1d10 health.
+2nd Stage: You can heal yourself for 2d10 health.
+3rd Stage: You can heal yourself for 4d10. 
+
+Commander:
+You specialize in encouraging and buffing your allies. 
+Bubble Shield: 
+You can shove your shield into the ground to create a bubble in a 10 ft radius around you. A creature can enter or leave the bubble by succeeding a dexterity check of 8 + your proficiency + your constitution.
+Buff:
+Once per battle you can choose one of the following:
+a.)	You may encourage your allies. Giving them 1d4 extra damage on any attack against a hostile creature.
+b.)	You may help your allies by granting them +2 AC and +2 times your Commander level in temporary hp.
+c.)	You may grant you and your allies extra speed. You and your allies gain +1 to initiative and +10 movement speed.
+THE EFFECT OF BUFF WEARS OFF WHEN COMBAT ENDS. (Fighting your party members does not keep the effect going).
+Companion:
+You may ask any friendly creature to be your companion. They will follow you into battle and do as you wish. If you do anything against their alignment they will no longer be friendly and will ignore anything you ask of them. You may only have one companion at a time.
+Supreme Intimidation:
+You have a fearful presence when around hostile creatures. You have a +4 to any intimidation check against hostile creatures and give disadvantage to hostile creatures of size small or smaller.
+Army (only obtainable at level 20):
+Once per day you may call upon an army to attack your enemies. The army runs through and does 10d10 damage.
+
+
+ 
+
+ __ _        _ _             
+/ _\ |_ __ _| | | _____ _ __ 
+\ \| __/ _` | | |/ / _ \ '__|
+_\ \ || (_| | |   <  __/ |   
+\__/\__\__,_|_|_|\_\___|_|   
+                             
+Hit Points
+Hit Dice: 1d8 + your constitution modifier
+Hit Points at 1st Level: 8 + your constitution modifier.
+Hit Points at Higher Levels: 1d8(or 5) + your constitution modifier.
+Proficiencies
+Armor: Light armor
+Weapons: Light weapons
+Saving Throws: Dexterity
+Tools: Thieves tools
+Skills: Choose two from 
+Equipment
+(a) Rapier
+(b) dagger x2
+(c) Thieves kit (tools)
+(d) Leather Armor
+ 
+
+Level	Proficiency Bonus	Features
+1st	+2	Tracking, Slip into the shadows
+2nd	+2	
+3rd	+2	Stalker Archetype
+4th	+2	Ability Score Improvement
+5th	+3	Weapon Specialty
+6th	+3	
+7th	+3	Archetype Features
+8th	+3	Ability Score Improvement
+9th	+4	
+10th	+4	
+11th	+4	Archetype Features
+12th	+4	Ability Score Improvement
+13th	+5	
+14th	+5	
+15th	+5	Archetype Features
+16th	+5	Ability Score Improvement
+17th	+6	
+18th	+6	
+19th	+6	Ability Score Improvement
+20th	+6	Archetype Features
+
+Tracking:
+You can track a creature within 30 feet, until they die you know their location always. You can only track one creature at a time.
+Weapon Specialty:
+You gain an additional 1d4 damage die with your specified weapon. (all Ranged weapons if your archetype is Dead Shot. All light weapons if your archetype is Crimson Shade)
+Archetypes:
+
+Crimson Shade: 
+You specialize in killing your opponents with a stealthy melee attack. You are a member of the widely known Hands of Crimson, a group known for dealing with blood money. Made of five leaders: Thumb: the brute of the group and tends to kill enemies by whatever means necessary. Pointer: The Navigator, knows of every which way to get you any which way. The Middle: sort of considered the main leader, keeps everyone in balance. The ring: tends to dabble in stealing a bit more than the others. Pinky: Most underestimate this small fellow but don’t let her small stature fool you, she is quite the killer.
+
+Hand of Blood:
+You can take a bonus action to put your hand in the blood of your enemies, healing you for 1d4 + your Crimson Shade standing level.
+Death Strike:
+When you have the final attack on an enemy, you can run to another enemy within 20 ft of you and make an attack action on them.
+Blood for blood:
+You can cut your hand taking 1d4 slashing damage and 1 bleed damage every turn for 5 turns. You gain an addition 1d4 damage with any attack you make with the weapon used to cut your hand.
+Creeping Shadows:
+Once per week, you can call upon one of the five. Roll a d20:
+1-4: The Thumb appears and fights anyone you declare an enemy.
+5-8: Pointer appears, and you may ask him one question about any location or where you need to go to get somewhere or if there are any secret entrances nearby.
+9-12: Middle shows up and stops combat for 1 minute. He disappears after this time.
+13-16: The Ring shows up. He will steal anything of your choice as long as you know who is carrying the item and you know exactly what it is.
+17-20: Pinky shows up and will instantly reveal to you all known weaknesses and resistances of target creature.
+Slip into Shadows: 
+Once per day when you are in dim or dark light you can slip into the shadows. You instantly enter stealth, regardless of what other creatures got on a perception check. You become visible to every creature the instant you take damage or deal damage to any creature. A creature with true sight or blindsight can see you.
+
+Dead Shot: 
+You specialize in killing your opponents with a stealthy ranged attack. You prefer to kill them before they can even see you. You are a member of the Whispering Wind, a group that is quick to uphold justice in one way or another (basically robin hood and his gang except the Wind doesn’t get found). This group worships Lelantus, God of the unseen.
+ 
+Unseen arrow:
+Once per day, you can shoot a target creature with an arrow. The Arrow disappears after it hits the enemy, leaving no trace of who or where it came from. Roll a d20:
+1-19: The enemy knows they are shot, and are alerted, but don’t know where to look or where it came from.
+20: The enemy looks around for any visible creature and assumes it was them, the target creature and the creature it looks at are engaged in combat and fight until one or the other is killed or knocked unconscious.
+
+Marksmanship:
+Once per battle, you may add 1d6 to any attack roll made with a ranged weapon by you. Also you aren’t effected by disadvantage with bows, crossbows, or any weapons of the sort (does not include any guns/javelins/thrown weapons)
+
+Critical Shot:
+Once per battle, you may find a critical spot on an enemy. You gain disadvantage on any attack made while trying to hit that spot, but you deal an additional 1d10 damage. (1d10’s damage type is determined by the weapon used to hit said spot)
+
+Run like the wind: 
+Once per battle, you can move up to twice your movement speed.
+
+Volley:
+Once per week, you can call upon the Whispering Winds and launch a volley of arrows at a target area. Creatures in the area must succeed on a dc 15 Perception check and a dc 15 dexterity check or take Xd10 damage Where X is your Whispering Wind standing level.
+
+
+ __ _        _ _             
+/ _\ |_ _ __(_) | _____ _ __ 
+\ \| __| '__| | |/ / _ \ '__|
+_\ \ |_| |  | |   <  __/ |   
+\__/\__|_|  |_|_|\_\___|_|   
+                             
+Hit Points
+Hit Dice: 1d8
+Hit Points at 1st Level: 8 + your Constitution modifier.
+Hit Points at Higher Levels: 1d8 + your Constitution modifier.
+Proficiencies
+Armor: Light Armor, Medium Armor
+Weapons: Simple Weapons, Martial Weapons.
+Saving Throws: Strength
+Tools: none
+Skills: Choose two from Intimidation, Perception, Athletics, and survival.
+Equipment
+(a)	Martial Ranged Weapon & 20x its ammunition and a simple weapon
+(b)	OR
+(c)	Two Martial Melee Weapons
+(d)	Chain Shirt
+
+
+Level	Proficiency Bonus	Features
+1st	+2	Stance
+2nd	+2	
+3rd	+2	Archetype Features
+4th	+2	Ability Score Improvement
+5th	+3	
+6th	+3	Archetype Features
+7th	+3	
+8th	+3	Ability Score Improvement
+9th	+4	
+10th	+4	Archetype Features
+11th	+4	
+12th	+4	Ability Score Improvement
+13th	+5	
+14th	+5	Archetype Features
+15th	+5	
+16th	+5	Ability Score Improvement
+17th	+6	
+18th	+6	
+19th	+6	Ability Score Improvement
+20th	+6	Archetype Features
+
+
+Stance: 
+You can choose your combat stance from the following:
+Defensive Stance: +1 to AC but all weapon damage is reduced by 1d4
+Offensive Stance: -1 to AC but all weapon damage is increased by 1d4
+Neutral Stance: Normal, no negatives or positives.
+You can change your stance before or after combat but not during.
+
+Archetypes:
+
+Twin Marauder: 
+You specialize in wielding two two-handed weapons. You are part of the Twin Marauders’ group. A group that praises The Twins as their inspiration for battle. The Twins, Draegon and Acheron (more commonly known as Chaos and Disorder) combined as one during battle against the gods. When the battle was over they were cursed to stay as one, but with two heads.
+When dual wielding two two-handed weapons, they must be of the same type (note the class name “TWIN Marauder”
+
+Unyielding Strike:
+Once per day you can unleash the true power of The Twins and strike down your enemy. When you make an attack roll you gain advantage and deal an extra damage die equal to the weapons’ damage die.
+United Means:
+Once per day you can call upon The Twins and Unite your two weapons to form one great weapon. The new weapon has all the characteristics of both and does both of their damage die plus an additional damage die of the first weapon. United Means ends if you have not been in combat for 5 minutes or if you stop wielding the weapon with two hands.
+Counter-Part:
+Once per day you can call upon the Twins and summon your Counter-Part. The summoned being is a clone of you. When you use this ability, you can only wield a weapon in one hand, and the clone wields your other weapon in the opposite hand. You control your Counter-Part. The counter-Part combines back into you after 1 minute. (While this ability is in effect, you cannot dual wield two weapons. The ability to dual wield Two-Handed weapons is regained when your Counter-Part disappears.)
+Evoke: 
+Once per battle, you can roll a d20 and see if you can evoke the enemy. Challenging them to a one on one combat. Neither you or the creature may try to attack another target until the previous target has been knocked unconscious or killed.
+Otherworldly Influence:
+Once per day you can call upon Draegon and Acheron to influence one creature to do anything. Even if it goes against their beliefs.
+
+Pugilist:
+You specialize in punching… a lot, and fast. You are a part of Fleeting Beating, a fighting group that holds little tournaments. Entertainers, but also serious fighters.
+
+Your unarmed attacks do 1d6 bludgeoning damage.
+
+Blow-by-Blow:
+After a creature attacks, if it attacked you, you may force it into single combat with you, you both constantly hit each other until either you are knocked unconscious or the creature dies.
+
+Saved by the bell:
+You are “saved by the bell”. For one round of combat (six seconds) target enemy CANNOT make an attack against you.
+
+Roll with the Punches:
+When an enemy uses the same attack on you multiple times you can roll a d20 to potentially dodge it.
+2nd attack: You must roll higher than an 18.
+3rd attack: You must roll higher than a 16.
+4th attack: You must roll higher than a 15.
+Any attack after 4th decreases what you must roll to dodge by 1.
+
+On the Ropes:
+When you are under half health your AC increases by 1.
+
+Killer Instinct:
+Once per battle you may sense a “critical” spot on an enemy. Any attack made against this spot has advantage and does 1.5x damage.
+
+Beat them to the Punch: 
+When an enemy attacks you, you may use your reaction to punch it first.
