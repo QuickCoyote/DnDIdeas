@@ -18,7 +18,7 @@ Height: 3'-4'
 Weight: 40-50lbs
 Typical Alignment: Neutral
 Languages: Common, Zaan
-Charisma +2
+Dexterity +2
 Speed: 20 ft.
 Size: Small
 Darkvision: you can see 30 ft in dark and dim conditions
@@ -56,13 +56,13 @@ Height: 5'5"-6'5"
 Weight: 120-170lbs
 Typical Alignment: Good
 Languages: Common, Alterian
-Dexterity +2
+Charisma +2
 Speed: 30 ft.
 Size: Medium
-Racial Ability: Once a day, you can take a 10 on a Dexterity saving throw/check
+Racial Ability: Once a day, you can take a 10 on a Charisma saving throw/check
 Appearance: These are basically humans
  
-Rytos
+Rhytos
 Age: Have been known to live up to 80 years although most die in battle before they reach it
 Height: 5'10"-6'8"
 Weight: 180-250 lbs
